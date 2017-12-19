@@ -1,30 +1,32 @@
-sterownik alarmu przeciwwłamaniowego
+# UML   * Software analysis and modeling college project
 
-aktorzy:
-- czujniki (w drzwiach i oknach, bezprzewodowe)
-- wykrywacz ruchu (w domu i poza domem, bezprzewodowe)
-- kamery (bezprzewodowe)
-- głośnik (syrena)
-- dialer GSM (ochrona / policja)
-- panel kontrolny
+### sterownik alarmu przeciwwłamaniowego
 
-analiza wymagań:
-- rejestracja / usunięcie czujnika
-- rejestracja / usunięcie wykrywacza ruchu
-- rejestracja / usunięcie kamery
-- sprawdzenie stanu czujników/kamer/wykrywaczy ruchu
-- zmiana adresu powiadomień (dla dialeru GSM)
-- sprawdzenie aktualnego adresu powiadomień
+##### Aktorzy:
+  * czujniki (w drzwiach i oknach, bezprzewodowe)
+  * wykrywacz ruchu (w domu i poza domem, bezprzewodowe)
+  * kamery (bezprzewodowe)
+  * głośnik (syrena)
+  * dialer GSM (ochrona / policja)
+  * panel kontrolny
 
-- powiadomienie w przypadku otwarcia obudowy
-- powiadomienie w przypadku straty łączności z którymś z modułów
-- powiadomienie w przypadku straty zasilania
+##### Analiza wymagań:
+  * rejestracja / usunięcie czujnika
+  * rejestracja / usunięcie wykrywacza ruchu
+  * rejestracja / usunięcie kamery
+  * sprawdzenie stanu czujników/kamer/wykrywaczy ruchu
+  * zmiana adresu powiadomień (dla dialeru GSM)
+  * sprawdzenie aktualnego adresu powiadomień
 
-- zmiana kodu
-- zmiana specjalnego kodu
-- uzbrojenie alarmu (po określonym czasie)
-- rozbrojenie alarmu (po użyciu kodu)
-- rozbrojenie alarmu z powiadomieniem ochrony (po użyciu specjalnego kodu)
-- zmiana długości czasu oczekiwania na rozbrojenie alarmu
+  * powiadomienie w przypadku otwarcia obudowy
+  * powiadomienie w przypadku straty łączności z którymś z modułów
+  * powiadomienie w przypadku straty zasilania
 
-- włączenie alarmu
+  * zmiana kodu
+  * zmiana specjalnego kodu
+  * uzbrojenie alarmu (po określonym czasie)
+  * rozbrojenie alarmu (po użyciu kodu)
+  * rozbrojenie alarmu z powiadomieniem ochrony (po użyciu specjalnego kodu)
+  * zmiana długości czasu oczekiwania na rozbrojenie alarmu
+
+  * włączenie alarmu
