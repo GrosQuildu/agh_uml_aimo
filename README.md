@@ -17,10 +17,12 @@
   * sprawdzenie stanu czujników/kamer/wykrywaczy ruchu
   * zmiana adresu powiadomień (dla dialeru GSM)
   * sprawdzenie aktualnego adresu powiadomień
+  ---
 
   * powiadomienie w przypadku otwarcia obudowy
   * powiadomienie w przypadku straty łączności z którymś z modułów
   * powiadomienie w przypadku straty zasilania
+  ---
 
   * zmiana kodu
   * zmiana specjalnego kodu
@@ -28,5 +30,6 @@
   * rozbrojenie alarmu (po użyciu kodu)
   * rozbrojenie alarmu z powiadomieniem ochrony (po użyciu specjalnego kodu)
   * zmiana długości czasu oczekiwania na rozbrojenie alarmu
+  ---
 
   * włączenie alarmu
