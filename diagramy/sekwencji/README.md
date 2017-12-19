@@ -31,5 +31,14 @@
 ![Sprawdź stan komponentów](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/sprawdz_stan_komponentow.png)
 
 
+[Aktywowanie alarmu](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=aktywowanie_alarmu.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGrosQuildu%2Fuml_aimo%2Fmaster%2Fdiagramy%2Fsekwencji%2Faktywowanie_alarmu.xml)
+
+![Aktywowanie alarmu](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/aktywowanie_alarmu.png)
+
+
+[Rozbrój alarm](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=rozbroj_alarm.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGrosQuildu%2Fuml_aimo%2Fmaster%2Fdiagramy%2Fsekwencji%2Frozbroj_alarm.xml)
+
+![Rozbrój alarm](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/rozbroj_alarm.png)
+
 [](x)
 ![](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/x.png)
