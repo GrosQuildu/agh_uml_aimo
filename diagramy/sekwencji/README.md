@@ -21,9 +21,14 @@
 ![Zmień adres powiadomień](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/zmien_adres_powiadomien.png)
 
 
-[Sprawdź adres powiadomień](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=sprawdz_adres_powiadomien.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGrosQuildu%2Fuml_aimo%2Fmaster%2Fdiagramy%2Fsekwencji%2Fsprawdz_adres_powiadomien.xml
+[Sprawdź adres powiadomień](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=sprawdz_adres_powiadomien.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGrosQuildu%2Fuml_aimo%2Fmaster%2Fdiagramy%2Fsekwencji%2Fsprawdz_adres_powiadomien.xml)
 
 ![Sprawdź adres powiadomień](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/sprawdz_adres_powiadomien.png)
+
+
+[Sprawdź stan komponentów](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=sprawdz_stan_komponentow.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGrosQuildu%2Fuml_aimo%2Fmaster%2Fdiagramy%2Fsekwencji%2Fsprawdz_stan_komponentow.xml)
+
+![Sprawdź stan komponentów](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/sprawdz_stan_komponentow.png)
 
 
 [](x)
