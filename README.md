@@ -1,8 +1,8 @@
-# UML   * Software analysis and modeling college project
+# UML - Software analysis and modeling college project
 
-### sterownik alarmu przeciwwłamaniowego
+## Sterownik alarmu przeciwwłamaniowego
 
-##### Aktorzy:
+#### Aktorzy:
   * czujniki (w drzwiach i oknach, bezprzewodowe)
   * wykrywacz ruchu (w domu i poza domem, bezprzewodowe)
   * kamery (bezprzewodowe)
@@ -10,7 +10,7 @@
   * dialer GSM (ochrona / policja)
   * panel kontrolny
 
-##### Analiza wymagań:
+#### Analiza wymagań:
   * rejestracja / usunięcie czujnika
   * rejestracja / usunięcie wykrywacza ruchu
   * rejestracja / usunięcie kamery
