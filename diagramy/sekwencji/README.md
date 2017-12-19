@@ -46,6 +46,11 @@
 ![Uruchomienie alarmu](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/uruchomienie_alarmu.png)
 
 
+[Nagraj włamanie](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=nagraj_wlamanie.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGrosQuildu%2Fuml_aimo%2Fmaster%2Fdiagramy%2Fsekwencji%2Fnagraj_wlamanie.xml)
+
+![Nagraj włamanie](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/nagraj_wlamanie.png)
+
+
 [Rozbrój alarm pod przymusem](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=rozbroj_alarm_pod_przymusem.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGrosQuildu%2Fuml_aimo%2Fmaster%2Fdiagramy%2Fsekwencji%2Frozbroj_alarm_pod_przymusem.xml)
 
 ![Rozbrój alarm pod przymusem](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/rozbroj_alarm_pod_przymusem.png)
