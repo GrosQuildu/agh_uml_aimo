@@ -50,5 +50,21 @@
 
 ![Rozbrój alarm pod przymusem](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/rozbroj_alarm_pod_przymusem.png)
 
+
+[Zmień kod](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=zmien_kod.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGrosQuildu%2Fuml_aimo%2Fmaster%2Fdiagramy%2Fsekwencji%2Fzmien_kod.xml)
+
+![Zmień kod](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/zmien_kod.png)
+
+
+[Zmień kod przymusu](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=zmien_kod_przymusu.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGrosQuildu%2Fuml_aimo%2Fmaster%2Fdiagramy%2Fsekwencji%2Fzmien_kod_przymusu.xml)
+
+![Zmień kod przymusu](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/zmien_kod_przymusu.png)
+
+
+[Uzbrój alarm](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=uzbroj_alarm.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGrosQuildu%2Fuml_aimo%2Fmaster%2Fdiagramy%2Fsekwencji%2Fuzbroj_alarm.xml)
+
+![Uzbrój alarm](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/uzbroj_alarm.png)
+
+
 [](x)
 ![](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/x.png)
