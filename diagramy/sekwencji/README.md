@@ -41,7 +41,7 @@
 ![Rozbrój alarm](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/rozbroj_alarm.png)
 
 [Uruchomienie alarmu](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=uruchomienie_alarmu.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGrosQuildu%2Fuml_aimo%2Fmaster%2Fdiagramy%2Fsekwencji%2Furuchomienie_alarmu.xml)
-![Uruchomienie alarmu](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/Furuchomienie_alarmu.png)
+![Uruchomienie alarmu](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/uruchomienie_alarmu.png)
 
 [](x)
 ![](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/x.png)
