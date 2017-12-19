@@ -1,4 +1,4 @@
-# UML - Software analysis and modeling college project
+# UML - Analiza i modelowanie oprogramowania, projekt studencki
 
 ## Sterownik alarmu przeciwwłamaniowego
 
@@ -37,3 +37,6 @@
   * aktywowanie alarmu (oczekiwanie na rozbrojenie alarmu)
   * uruchomienie alarmu (głośnik wyje, ochrona zostaje zawiadomiona itd.)
   * nagrywanie włamania
+
+
+~Paweł Płatek
