@@ -3,12 +3,13 @@
 ## Sterownik alarmu przeciwwłamaniowego
 
 #### Aktorzy:
-  * czujniki (w drzwiach i oknach, bezprzewodowe)
-  * wykrywacz ruchu (w domu i poza domem, bezprzewodowe)
-  * kamery (bezprzewodowe)
-  * głośnik (syrena)
-  * dialer GSM (ochrona / policja)
-  * panel kontrolny
+  * komponenty:
+    * czujniki (w drzwiach i oknach, bezprzewodowe)
+    * wykrywacze ruchu (w domu i poza domem, bezprzewodowe)
+    * kamery (w domu i poza domem, bezprzewodowe)
+  * głośnik (centralny głośnik/syrena, może być połączony z większą ilością głośników)
+  * dialer GSM (komunikacja z ochroną, policją, właścicielem)
+  * panel kontrolny (klawiatura i wyświetlacz)
 
 #### Analiza wymagań:
   * rejestracja / usunięcie czujnika
@@ -19,17 +20,20 @@
   * sprawdzenie aktualnego adresu powiadomień
   ---
 
-  * powiadomienie w przypadku otwarcia obudowy
-  * powiadomienie w przypadku straty łączności z którymś z modułów
-  * powiadomienie w przypadku straty zasilania
+  * komunikat w przypadku otwarcia obudowy
+  * komunikat w przypadku straty łączności z którymś z modułów
+  * komunikat w przypadku straty zasilania
+  * komuniakt w przypadku błędnych prób uwierzytelnienia
   ---
 
   * zmiana kodu
-  * zmiana specjalnego kodu
+  * zmiana specjalnego, przymusowego kodu
   * uzbrojenie alarmu (po określonym czasie)
   * rozbrojenie alarmu (po użyciu kodu)
-  * rozbrojenie alarmu z powiadomieniem ochrony (po użyciu specjalnego kodu)
+  * rozbrojenie alarmu z powiadomieniem ochrony (po użyciu kodu przymusowego)
   * zmiana długości czasu oczekiwania na rozbrojenie alarmu
   ---
 
-  * włączenie alarmu
+  * aktywowanie alarmu (oczekiwanie na rozbrojenie alarmu)
+  * uruchomienie alarmu (głośnik wyje, ochrona zostaje zawiadomiona itd.)
+  * nagrywanie włamania
