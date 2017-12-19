@@ -66,5 +66,5 @@
 ![Uzbrój alarm](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/uzbroj_alarm.png)
 
 
-[](x)
-![](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/x.png)
+[Komunikuj zdarzenie](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=komunikuj_zdarzenie.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGrosQuildu%2Fuml_aimo%2Fmaster%2Fdiagramy%2Fsekwencji%2Fkomunikuj_zdarzenie.xml)
+![Komunikuj zdarzenie](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/sekwencji/komunikuj_zdarzenie.png)
