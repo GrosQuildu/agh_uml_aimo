@@ -21,3 +21,9 @@
 
 ![Próba rozbrojenia alarmu](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/stanow_czynnosci/czynnosc_proba_rozbrojenia_alarmu.png)
 
+
+[Aktywacja alarmu](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=czynnosc_aktywacja_alarmu.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGrosQuildu%2Fuml_aimo%2Fmaster%2Fdiagramy%2Fstanow_czynnosci%2Fczynnosc_aktywacja_alarmu.xml)
+
+![Aktywacja alarmu](https://github.com/GrosQuildu/uml_aimo/blob/master/diagramy/stanow_czynnosci/czynnosc_aktywacja_alarmu.png)
+
+
